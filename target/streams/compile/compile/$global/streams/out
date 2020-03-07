@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/main/runner.scala:27:56: unreachable code[0m
+[0m[[0m[33mwarn[0m] [0m[0m			case stE: java.net.SocketTimeoutException => println("Timed Out")[0m
+[0m[[0m[33mwarn[0m] [0m[0m			                                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were two deprecation warnings (since 2.13.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were three deprecation warnings in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m

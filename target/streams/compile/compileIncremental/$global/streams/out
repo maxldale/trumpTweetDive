@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/storage/GroupedTweets.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/storage/YearMonth.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/tweets/TweetInfo.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/tweets/TweetHTMLParser.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/storage/TweetOutputManager.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/scraper/TweetURLBuilder.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/tweetAccumulation/TrumpTweetAccumulator.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/main/runner.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/date/DateUtil.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/date/DateCounter.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/main/Runner$.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/tweetAccumulation/TrumpTweetAccumulator$.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/date/DateCounter.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/scraper/TweetURLBuilder$.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/scraper/TweetScraper.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/date/DateUtil.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/scraper/TweetScraper$.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/scraper/TweetURLBuilder.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/date/DateUtil$.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/com/maxl/tweetAccumulation/TrumpTweetAccumulator.class, /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes/main/Runner.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.maxl.tweetAccumulation.TrumpTweetAccumulator, com.maxl.date.DateCounter, com.maxl.date.DateUtil, com.maxl.scraper.TweetURLBuilder, main.Runner)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/scraper/TweetURLBuilder.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/tweetAccumulation/TrumpTweetAccumulator.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/scraper/TweetScraper.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/main/runner.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/date/DateUtil.scala, /home/maxl/Development/TrumpTweetDive/trumptweetdive/src/main/scala/com/maxl/date/DateCounter.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 11 sources: invalidated sources (11) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 11 Scala sources to /home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 1a156f51 for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maxl/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maxl/Development/TrumpTweetDive/trumptweetdive/target/scala-2.13/classes:/home/maxl/.ivy2/cache/org.jsoup/jsoup/jars/jsoup-1.12.1.jar:/home/maxl/.ivy2/cache/com.google.code.gson/gson/jars/gson-2.8.5.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.362279291 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

@@ -1,0 +1,4 @@
+[error] /home/maxl/Development/TrumpTweetDive/trumptweetdive/project/Dependencies.scala:6:19: not found: value libraryDependencies
+[error]   lazy val gson = libraryDependencies += "com.google.code.gson" % "gson" % "2.8.5"
+[error]                   ^
+[error] one error found
